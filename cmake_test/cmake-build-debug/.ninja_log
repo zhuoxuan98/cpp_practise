@@ -1,0 +1,8 @@
+# ninja log v5
+4	281	7216519540177377	CMakeFiles/message.dir/Message.cpp.obj	46de9aae3ddcf51
+0	286	7216519540188283	CMakeFiles/hello-cmake.dir/CMake_test1.cpp.obj	2f041a41992dd005
+283	736	7216519540177377	message.dll	6d857b7a202dc9a5
+283	736	7216519540177377	message.lib	6d857b7a202dc9a5
+1	260	7216519888273563	CMakeFiles/message.dir/Message.cpp.obj	28cc536ecc984ace
+260	301	7216519888687811	message.lib	8dffafa15b64dd76
+301	803	7216519893627317	hello-cmake.exe	5a11de03042fd687
