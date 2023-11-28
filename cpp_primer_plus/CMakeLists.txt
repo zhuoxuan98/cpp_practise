@@ -27,4 +27,9 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(ch03_ex01 ch03/ch03_ex01.cpp)
 add_executable(ch03_case01 ch03/ch03_case01.cpp)
-
+add_executable(ch03_ex02 ch03/ch03_ex02.cpp)
+add_executable(ch03_ex03 ch03/ch03_ex03.cpp)
+add_executable(ch03_ex04 ch03/ch03_ex04.cpp)
+add_executable(ch03_ex05 ch03/ch03_ex05.cpp)
+add_executable(ch03_ex06 ch03/ch03_ex06.cpp)
+add_executable(ch03_ex07 ch03/ch03_ex07.cpp)
